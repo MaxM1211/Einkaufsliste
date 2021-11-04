@@ -1,4 +1,4 @@
-# Einkaufsliste
+# Lebenslauf
 
 ## Über mich
 
@@ -18,3 +18,9 @@ Diesen Werdegang konnte ich durch das Modell Studium Plus Informatik erreichen.
 
 1. Man wird das ganze Studium über bezahlt
 2. 2 Abschlüsse innerhalb von 4,5 Jahren
+
+## Mein Arbeitgeber
+
+![Das Logo von B. Braun](logo.png "Logo B. Braun")
+
+_Aesculap_ ist als Tochter Firma von **B. Braun** mein Arbeitgeber.
