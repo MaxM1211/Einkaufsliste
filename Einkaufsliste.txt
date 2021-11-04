@@ -5,3 +5,4 @@ Birne
 Laptop
 Chips
 Gaming Router
+W-Lan Kabel
